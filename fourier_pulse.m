@@ -1,9 +1,4 @@
 % This file gets the fourier transfrom of a pulse
-% 
-% Created By: JCBRO Labs
-% Date: 7/09/2015
-% website: www.jcbrolabs.org
-% mail: jcbrolabs@gmail.com
 
 close all; clear all;
 
