@@ -1,9 +1,5 @@
 % this file generate PWM signal of desired duty cycle
-% 
-% Created By: JCBRO Labs
-% Date: 28/04/2017
-% website: www.jcbrolabs.org
-% mail: jcbrolabs@gmail.com
+
 close all; clear all;
 
 f = 7; % Frequency of the signal
