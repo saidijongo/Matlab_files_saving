@@ -1,10 +1,4 @@
 % This file finds impulse response of the system
-% 
-% Created By: JCBRO Labs
-% Date: 27/07/2015
-% website: www.jcbrolabs.org
-% mail: jcbrolabs@gmail.com
-
 
 close all; clear all;
 N = 40; %length of the sequence
