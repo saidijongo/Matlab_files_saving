@@ -1,9 +1,6 @@
 % This file creates frames from Speech Signal
 % 
-% Created By: JCBRO Labs
-% Date: 22/05/2017
-% website: www.jcbrolabs.org
-% mail: jcbrolabs@gmail.com
+
 close all; clear all;
 
 % Read Audio File.
