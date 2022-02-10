@@ -1,9 +1,6 @@
 % this file generates PAM signal
 % 
-% Created By: JCBRO Labs
-% Date: 29/04/2017
-% website: www.jcbrolabs.org
-% mail: jcbrolabs@gmail.com
+
 close all; clear all;
 
 fc = 20;    %carrier frequency
