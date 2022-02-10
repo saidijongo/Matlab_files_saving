@@ -1,9 +1,5 @@
 % This file design the LPF and plots its frequency response
 % 
-% Created By: JCBRO Labs
-% Date: 13/09/2017
-% website: www.jcbrolabs.org
-% mail: jcbrolabs@gmail.com
 
 close all; clear all;
 
