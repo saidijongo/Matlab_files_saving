@@ -1,10 +1,5 @@
 % This file Tune PID controller using Zeigler-Nicholas Method
 % 
-% Created By: JCBRO Labs
-% Date: 19/05/2019
-% website: www.jcbrolabs.org
-% mail: jcbrolabs@gmail.com
-close all; clear all; clc;
 
 % define pant transfer function
 s = tf('s');
