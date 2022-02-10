@@ -1,10 +1,3 @@
-% This file invokes simulink from matlab editor
-% 
-% Created By: JCBRO Labs
-% Date: 13/04/2017
-% website: www.jcbrolabs.org
-% mail: jcbrolabs@gmail.com
-close all; clear all;
 
 % Choose solver and set model workspace to this function
 opt = simset('solver','ode4','SrcWorkspace','Current');
