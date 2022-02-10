@@ -1,9 +1,3 @@
-% This file adds noise to the signal and sound
-% 
-% Created By: JCBRO Labs
-% Date: 17/05/2016
-% website: www.jcbrolabs.org
-% mail: jcbrolabs@gmail.com
 
 close all; clear all
 Fs = 16000;
