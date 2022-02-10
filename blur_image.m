@@ -1,10 +1,3 @@
-% This file blurs an image
-% 
-% Created By: JCBRO Labs
-% Date: 23/07/2015
-% website: www.jcbrolabs.org
-% mail: jcbrolabs@gmail.com
-
 
 close all; clear all;
 
